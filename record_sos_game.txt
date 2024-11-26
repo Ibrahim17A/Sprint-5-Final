@@ -1,0 +1,7 @@
+O:blue:SystemButtonFace,O:blue:SystemButtonFace,S:blue:SystemButtonFace
+S:red:SystemButtonFace,S:blue:SystemButtonFace,S:blue:SystemButtonFace
+O:red:SystemButtonFace,S:red:SystemButtonFace,O:red:SystemButtonFace
+Current Player: blue
+Blue Wins: 0
+Red Wins: 0
+Turn Count: 9
